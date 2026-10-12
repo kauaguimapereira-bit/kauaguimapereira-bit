@@ -134,16 +134,16 @@ com alcance internacional.
   <tr>
     <td align="center" width="50%" valign="top">
       <br>
-      <strong>Site corretor</strong>
+      <strong>Site do corretor</strong>
       <br><br>
-      <sub>Em breve.<br>Site institucional e portfólio profissional para o corretor Fernando Silveira.</sub>
+      <sub>Site institucional e portfólio profissional para o corretor Fernando Silveira.</sub>
       <br><br>
       <sub><code>https://github.com/kauaguimapereira-bit/site-corretor.git</code></sub>
       <br><br>
     </td>
     <td align="center" width="50%" valign="top">
       <br>
-      <strong>Site doutora</strong>
+      <strong>Site da doutora</strong>
       <br><br>
       <sub>Site institucional e portfólio profissional para Dra. Lilian Guimarães, Farmacêutica Esteta, com foco em estética facial e corporal.</sub>
       <br><br>
